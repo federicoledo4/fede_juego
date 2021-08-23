@@ -1,0 +1,9 @@
+body{background-image: url("Escenarios/Start.jpg"); background-size: cover;}
+    h1{color:white; background-color:red;}
+    h2{color:white;}
+    p1{color:white; background-color:blue;}
+    p2{color:white; background-color:blue;}
+
+.personaje{width: 4cm; height: 6.5cm;}
+.enemigo{width: 2cm; height: 3.25cm;}
+.boss{width: 4cm; height: 6.5cm;}
